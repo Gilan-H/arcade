@@ -15,7 +15,7 @@ header{
   justify-content: space-evenly;
 }
 
-games:: hover{
+.games:: hover{
     transform: scale(1.02);
     filter: brightness(110%);
 }
