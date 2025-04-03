@@ -40,7 +40,7 @@ body{
   justify-content: space-evenly;
 }
 footer {
-  margin-top: 100%;
+  margin-top: auto;
   margin-bottom: 0;
   background-color: white;
   margin-left: 0;
