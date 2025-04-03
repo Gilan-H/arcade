@@ -37,3 +37,8 @@ body{
   display:inline-block;
   justify-content: space-evenly;
 }
+footer {
+  margin-bottom: 0;
+  background-color: white;
+  margin-left: 0;
+}
