@@ -19,7 +19,9 @@ header{
     transform: scale(1.02);
     filter: brightness(110%);
 }
-
+.games{
+  display: inline;
+}
 main{
   background-color: white;
   width: 80%;
