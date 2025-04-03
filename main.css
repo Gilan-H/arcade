@@ -9,13 +9,13 @@ header{
   overflow: hidden;
 }
 
-.games {
+.game_button {
   overflow: hidden;
   display: flex;
   justify-content: space-evenly;
 }
 
-.games:: hover{
+.game_button:: hover{
     transform: scale(1.02);
     filter: brightness(110%);
 }
