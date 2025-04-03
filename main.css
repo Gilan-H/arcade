@@ -9,11 +9,9 @@ header{
   overflow: hidden;
 }
 
-.games{
-  display: inline;
-}
 .game_button {
   overflow: hidden;
+  display: inline;
   justify-content: space-evenly;
 }
 
