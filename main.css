@@ -36,6 +36,12 @@ body{
   display:inline-block;
   justify-content: space-evenly;
 }
+
+.desc{
+  text-align: center;
+  font-size: 25px;
+  color: black;
+}
 footer {
   margin-top: auto;
   margin-bottom: 0;
