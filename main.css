@@ -7,6 +7,7 @@ header{
   font-size: 40px;
   color:white;
   overflow: hidden;
+  background-color: black;
 }
 
 .game_button {
