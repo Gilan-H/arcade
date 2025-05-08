@@ -18,6 +18,21 @@ header{
   justify-items: center;
 }
 
+@media (max-width: 768px){
+  .nav_buttons{
+    font-size: 15px;
+    color:white;
+    text-decoration: none;
+  }
+}
+@media (min-width: 769px){
+  .nav_buttons{
+    font-size: 36px;
+    color:white;
+    text-decoration: none;
+  }
+}
+
 .game_button {
   overflow: hidden;
   display: flex;
