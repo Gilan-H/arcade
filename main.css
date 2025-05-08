@@ -8,8 +8,12 @@ header{
   color:white;
   overflow: hidden;
   background-color: black;
-  text-decoration: none;
 }
+h1{
+  text-decoration: none;
+  color: white;
+}
+
 .nav_bar{
   display: grid;
   grid-template-columns: auto auto auto auto auto;
