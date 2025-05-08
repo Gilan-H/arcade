@@ -9,6 +9,14 @@ header{
   overflow: hidden;
   background-color: black;
 }
+.nav_bar{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  color: white;
+  background-color: #000000;
+  overflow: hidden;
+  justify-items: center;
+}
 
 .game_button {
   overflow: hidden;
