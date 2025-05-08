@@ -14,6 +14,7 @@ header{
   overflow: hidden;
   display: flex;
   justify-content: space-evenly;
+  width: 400px;
 }
 
 .game_button:: hover{
