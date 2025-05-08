@@ -8,7 +8,6 @@ header{
   color:white;
   overflow: hidden;
   background-color: black;
-  position: fixed;
 }
 .nav_bar{
   display: grid;
@@ -17,7 +16,6 @@ header{
   background-color: #000000;
   overflow: hidden;
   justify-items: center;
-  position: fixed;
 }
 
 @media (max-width: 768px){
